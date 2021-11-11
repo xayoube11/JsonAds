@@ -4,12 +4,12 @@
       {
         "NetworkAds": "admob",
 
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "BannerAdmob": "ca-app-pub-2883783193926890/6533325667",
+        "InterstitialAdmob": "ca-app-pub-2883783193926890/4837100613",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
-        "BannerFacebook": "7f86197ae7070dc5",
-        "InterstitialFacebook": "2f2be175d1419b67",
+        "BannerFacebook": "9d2ffac662c56892",
+        "InterstitialFacebook": "f18a6f09001a8769",
         "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
         "NativeFacebookSingle": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782"
 		
